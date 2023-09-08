@@ -1,0 +1,4 @@
+name: RewardVaults
+version: '${project.version}'
+main: me.jammy.rewardvaults.RewardVaults
+api-version: '1.20'
